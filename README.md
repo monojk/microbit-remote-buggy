@@ -1,5 +1,5 @@
 # microbit-remote-buggy
-Remotely control a buggy using 2 bbc mirco:bit modules communicating over bluetooth 
+Remotely control a buggy using 2 bbc micro:bit modules communicating over bluetooth 
 
 Use the accelerometer on the microbit to control the movement of a buggy driven by a controlling microbit.
 Communication over radio (bluetooth)
