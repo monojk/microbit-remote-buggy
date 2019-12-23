@@ -7,5 +7,6 @@ Communication over radio (bluetooth)
 **Control:**  
 * **Left Button:**  Start the buggy
 * **Right Button:** Stop the buggy
-* **Tilt* the control microbit forward to move forward, backward to move backwards, left to turn left, right to turn right  
-    
+* **Tilt** the control microbit forward to move forward, backward to move backwards, left to turn left, right to turn right  
+
+See movie
