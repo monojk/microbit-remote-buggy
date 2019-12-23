@@ -10,3 +10,8 @@ Communication over radio (bluetooth)
 * **Tilt** the control microbit forward to move forward, backward to move backwards, left to turn left, right to turn right  
 
 See movie
+
+Required hardware:
+2 bbc micro:bit
+1 Mi Power Board for the controller
+1 (Line Following) Buggy for the BBC micro:bit    (don't install the optoelectronics)
